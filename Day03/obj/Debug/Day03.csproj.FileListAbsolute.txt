@@ -1,0 +1,8 @@
+C:\Users\areis\source\repos\AdventOfCode\Day03\bin\Debug\Day03.exe.config
+C:\Users\areis\source\repos\AdventOfCode\Day03\bin\Debug\Day03.exe
+C:\Users\areis\source\repos\AdventOfCode\Day03\bin\Debug\Day03.pdb
+C:\Users\areis\source\repos\AdventOfCode\Day03\obj\Debug\Day03.csproj.AssemblyReference.cache
+C:\Users\areis\source\repos\AdventOfCode\Day03\obj\Debug\Day03.csproj.SuggestedBindingRedirects.cache
+C:\Users\areis\source\repos\AdventOfCode\Day03\obj\Debug\Day03.csproj.CoreCompileInputs.cache
+C:\Users\areis\source\repos\AdventOfCode\Day03\obj\Debug\Day03.exe
+C:\Users\areis\source\repos\AdventOfCode\Day03\obj\Debug\Day03.pdb
